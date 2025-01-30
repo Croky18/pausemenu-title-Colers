@@ -1,7 +1,7 @@
 fx_version 'cerulean' -- Zorg ervoor dat je de juiste FiveM-versie gebruikt
 game 'gta5'
 
-author 'JouwNaam'
+author 'Croky19'
 description 'Pause Menu Titel met Kleuren en Emoji'
 version '1.0'
 
